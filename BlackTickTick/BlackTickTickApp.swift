@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct BlackTickTickApp: App {
+    @StateObject  var manager=Manager()
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(manager)
         }
     }
 }

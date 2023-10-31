@@ -7,18 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F1446662AED4AEE005BF9B1 /* TestUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1446652AED4AEE005BF9B1 /* TestUIView.swift */; };
+		1F154BD32AEBA0B900009E6F /* DatePickerWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F154BD22AEBA0B900009E6F /* DatePickerWrapper.swift */; };
+		1F154BD52AEBA11F00009E6F /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F154BD42AEBA11F00009E6F /* SwiftUIView.swift */; };
+		1F287C1B2AEFB12B00BF4D3B /* TestView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F287C1A2AEFB12B00BF4D3B /* TestView3.swift */; };
+		1F2E203C2AE7942100C702F6 /* MatrixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F2E203B2AE7942100C702F6 /* MatrixView.swift */; };
+		1F3D18122ADCE10F00CE9531 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3D18112ADCE10F00CE9531 /* Model.swift */; };
+		1F3D18142ADCE9EE00CE9531 /* TaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3D18132ADCE9EE00CE9531 /* TaskView.swift */; };
+		1F3D18172ADCEAFD00CE9531 /* ItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3D18162ADCEAFD00CE9531 /* ItemView.swift */; };
+		1FAB1D5B2AF0A90400E03CB1 /* SheetTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAB1D5A2AF0A90400E03CB1 /* SheetTest.swift */; };
+		1FB1FF5F2AE0DEA8006ED08D /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB1FF5E2AE0DEA8006ED08D /* SettingsView.swift */; };
+		1FB1FF612AE0E0C0006ED08D /* EditListview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB1FF602AE0E0C0006ED08D /* EditListview.swift */; };
 		1FB633302AD8F6A800444BA4 /* BlackTickTickApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB6332F2AD8F6A800444BA4 /* BlackTickTickApp.swift */; };
 		1FB633322AD8F6A800444BA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FB633312AD8F6A800444BA4 /* ContentView.swift */; };
 		1FB633342AD8F6AA00444BA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FB633332AD8F6AA00444BA4 /* Assets.xcassets */; };
 		1FB633372AD8F6AA00444BA4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FB633362AD8F6AA00444BA4 /* Preview Assets.xcassets */; };
+		1FE65FB82AEEC02100C264A9 /* TestView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE65FB72AEEC02100C264A9 /* TestView2.swift */; };
+		1FE65FBA2AEF986100C264A9 /* ExpandingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FE65FB92AEF986100C264A9 /* ExpandingView.swift */; };
+		1FF326302ADE174600510F07 /* AddTaskSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FF3262F2ADE174600510F07 /* AddTaskSheetView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F1446652AED4AEE005BF9B1 /* TestUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestUIView.swift; sourceTree = "<group>"; };
+		1F154BD22AEBA0B900009E6F /* DatePickerWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerWrapper.swift; sourceTree = "<group>"; };
+		1F154BD42AEBA11F00009E6F /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		1F287C1A2AEFB12B00BF4D3B /* TestView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView3.swift; sourceTree = "<group>"; };
+		1F2E203B2AE7942100C702F6 /* MatrixView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixView.swift; sourceTree = "<group>"; };
+		1F3D18112ADCE10F00CE9531 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		1F3D18132ADCE9EE00CE9531 /* TaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskView.swift; sourceTree = "<group>"; };
+		1F3D18162ADCEAFD00CE9531 /* ItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemView.swift; sourceTree = "<group>"; };
+		1FAB1D5A2AF0A90400E03CB1 /* SheetTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetTest.swift; sourceTree = "<group>"; };
+		1FB1FF5E2AE0DEA8006ED08D /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1FB1FF602AE0E0C0006ED08D /* EditListview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditListview.swift; sourceTree = "<group>"; };
 		1FB6332C2AD8F6A800444BA4 /* BlackTickTick.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlackTickTick.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FB6332F2AD8F6A800444BA4 /* BlackTickTickApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackTickTickApp.swift; sourceTree = "<group>"; };
 		1FB633312AD8F6A800444BA4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1FB633332AD8F6AA00444BA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FB633362AD8F6AA00444BA4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1FE65FB72AEEC02100C264A9 /* TestView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView2.swift; sourceTree = "<group>"; };
+		1FE65FB92AEF986100C264A9 /* ExpandingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandingView.swift; sourceTree = "<group>"; };
+		1FF3262F2ADE174600510F07 /* AddTaskSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskSheetView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,9 +60,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F3D18152ADCE9F600CE9531 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				1F3D18132ADCE9EE00CE9531 /* TaskView.swift */,
+				1F154BD22AEBA0B900009E6F /* DatePickerWrapper.swift */,
+				1F2E203B2AE7942100C702F6 /* MatrixView.swift */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
 		1FB633232AD8F6A800444BA4 = {
 			isa = PBXGroup;
 			children = (
+				1F1446652AED4AEE005BF9B1 /* TestUIView.swift */,
+				1F154BD42AEBA11F00009E6F /* SwiftUIView.swift */,
+				1FAB1D5A2AF0A90400E03CB1 /* SheetTest.swift */,
+				1FE65FB72AEEC02100C264A9 /* TestView2.swift */,
+				1FE65FB92AEF986100C264A9 /* ExpandingView.swift */,
+				1F287C1A2AEFB12B00BF4D3B /* TestView3.swift */,
 				1FB6332E2AD8F6A800444BA4 /* BlackTickTick */,
 				1FB6332D2AD8F6A800444BA4 /* Products */,
 			);
@@ -51,8 +95,14 @@
 		1FB6332E2AD8F6A800444BA4 /* BlackTickTick */ = {
 			isa = PBXGroup;
 			children = (
+				1F3D18112ADCE10F00CE9531 /* Model.swift */,
+				1F3D18162ADCEAFD00CE9531 /* ItemView.swift */,
 				1FB6332F2AD8F6A800444BA4 /* BlackTickTickApp.swift */,
+				1FF3262F2ADE174600510F07 /* AddTaskSheetView.swift */,
 				1FB633312AD8F6A800444BA4 /* ContentView.swift */,
+				1FB1FF5E2AE0DEA8006ED08D /* SettingsView.swift */,
+				1FB1FF602AE0E0C0006ED08D /* EditListview.swift */,
+				1F3D18152ADCE9F600CE9531 /* Tabs */,
 				1FB633332AD8F6AA00444BA4 /* Assets.xcassets */,
 				1FB633352AD8F6AA00444BA4 /* Preview Content */,
 			);
@@ -137,8 +187,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F1446662AED4AEE005BF9B1 /* TestUIView.swift in Sources */,
+				1FB1FF5F2AE0DEA8006ED08D /* SettingsView.swift in Sources */,
 				1FB633322AD8F6A800444BA4 /* ContentView.swift in Sources */,
+				1FAB1D5B2AF0A90400E03CB1 /* SheetTest.swift in Sources */,
+				1F154BD52AEBA11F00009E6F /* SwiftUIView.swift in Sources */,
+				1FE65FB82AEEC02100C264A9 /* TestView2.swift in Sources */,
+				1FE65FBA2AEF986100C264A9 /* ExpandingView.swift in Sources */,
+				1FB1FF612AE0E0C0006ED08D /* EditListview.swift in Sources */,
+				1FF326302ADE174600510F07 /* AddTaskSheetView.swift in Sources */,
+				1F287C1B2AEFB12B00BF4D3B /* TestView3.swift in Sources */,
+				1F3D18122ADCE10F00CE9531 /* Model.swift in Sources */,
 				1FB633302AD8F6A800444BA4 /* BlackTickTickApp.swift in Sources */,
+				1F3D18172ADCEAFD00CE9531 /* ItemView.swift in Sources */,
+				1F154BD32AEBA0B900009E6F /* DatePickerWrapper.swift in Sources */,
+				1F3D18142ADCE9EE00CE9531 /* TaskView.swift in Sources */,
+				1F2E203C2AE7942100C702F6 /* MatrixView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
